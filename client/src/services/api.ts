@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:3000/api/employer/analytics';
+const API_BASE_URL = `${import.meta.env.VITE_APP_API_URL}api/employer/analytics`;
 
 // Create axios instance with default config
 const api = axios.create({
@@ -282,31 +282,31 @@ export const analyticsApi = {
 
     // Get all jobs for the authenticated employer
     getJobs: async (): Promise<JobData[]> => {
-        const response = await api.get('http://localhost:3000/api/employer/jobs');
+        const response = await api.get(`${import.meta.env.VITE_APP_API_URL}api/employer/jobs`);
         return response.data;
     },
 
     // Get all courses
     getCourses: async (): Promise<CourseData[]> => {
-        const response = await api.get('http://localhost:3000/api/employer/courses');
+        const response = await api.get(`${import.meta.env.VITE_APP_API_URL}/api/employer/courses`);
         return response.data;
     },
 
     // Get all course completions
     getCourseCompletions: async (): Promise<CourseCompletionData[]> => {
-        const response = await api.get('http://localhost:3000/api/employer/course-completions');
+        const response = await api.get(`${import.meta.env.VITE_APP_API_URL}api/employer/course-completions`);
         return response.data;
     },
 
     // Get all applications
     getApplications: async (): Promise<ApplicationData[]> => {
-        const response = await api.get('http://localhost:3000/api/employer/applications');
+        const response = await api.get(`${import.meta.env.VITE_APP_API_URL}api/employer/applications`);
         return response.data;
     },
 
     // Get all views
     getViews: async (): Promise<ViewData[]> => {
-        const response = await api.get('http://localhost:3000/api/employer/views');
+        const response = await api.get(`${import.meta.env.VITE_APP_API_URL}api/employer/views`);
         return response.data;
     },
 };

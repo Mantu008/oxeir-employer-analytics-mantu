@@ -24,7 +24,7 @@ const Login = ({ onLoginSuccess }) => {
         setError('');
 
         try {
-            const response = await axios.post('http://localhost:3000/api/auth/employer/login', formData);
+            const response = await axios.post(`${import.meta.env.VITE_APP_API_URL}api/auth/employer/login`, formData);
 
             // Store token and employer data
             localStorage.setItem('token', response.data.token);

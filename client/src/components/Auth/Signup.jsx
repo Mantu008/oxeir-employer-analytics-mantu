@@ -70,7 +70,7 @@ const Signup = ({ onLoginSuccess }) => {
                 phone: formData.phone
             };
 
-            const response = await axios.post('http://localhost:3000/api/auth/employer/signup', signupData);
+            const response = await axios.post(`${import.meta.env.VITE_APP_API_URL}api/auth/employer/signup`, signupData);
 
             // Store token and employer data
             localStorage.setItem('token', response.data.token);
