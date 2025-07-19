@@ -22,8 +22,6 @@ Here's your updated `README.md` file for the **Employer Dashboard Analytics Modu
 - [Running & Testing](#running--testing)
 - [Deployment](#deployment)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -49,6 +47,7 @@ This module provides a comprehensive analytics dashboard for employers, built wi
 |-------------|----------------------------------------------------------------------|
 | **Frontend** | [https://oxeir-employer-analytics-mantu-f2d5.vercel.app](https://oxeir-employer-analytics-mantu-f2d5.vercel.app) |
 | **Backend**  | [https://oxeir-employer-analytics-mantu.vercel.app](https://oxeir-employer-analytics-mantu.vercel.app)         |
+
 
 ---
 
