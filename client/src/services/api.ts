@@ -288,7 +288,7 @@ export const analyticsApi = {
 
     // Get all courses
     getCourses: async (): Promise<CourseData[]> => {
-        const response = await api.get(`${import.meta.env.VITE_APP_API_URL}/api/employer/courses`);
+        const response = await api.get(`${import.meta.env.VITE_APP_API_URL}api/employer/courses`);
         return response.data;
     },
 
