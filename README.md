@@ -43,11 +43,10 @@ This module provides a comprehensive analytics dashboard for employers, built wi
 
 ## 🌐 Deployed URLs
 
-| Service     | URL                                                                 |
-|-------------|----------------------------------------------------------------------|
-| **Frontend** | [https://oxeir-employer-analytics-mantu-f2d5.vercel.app](https://oxeir-employer-analytics-mantu-f2d5.vercel.app) |
-| **Backend**  | [https://oxeir-employer-analytics-mantu.vercel.app](https://oxeir-employer-analytics-mantu.vercel.app)         |
+## 🔗 Live URLs
 
+- **Frontend**: https://oxeir-employer-analytics-mantu-f2d5.vercel.app
+- **Backend**: https://oxeir-employer-analytics-mantu.vercel.app
 
 ---
 
