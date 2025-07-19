@@ -1,0 +1,157 @@
+[
+    {
+        "_id": "507f1f77bcf86cd799439001",
+        "title": "Senior React Developer",
+        "description": "We are looking for a senior React developer with 5+ years of experience to join our frontend team. You will be responsible for building scalable web applications and mentoring junior developers.",
+        "status": "open",
+        "employerId": "507f1f77bcf86cd799439011",
+        "skillsRequired": [
+            "React",
+            "JavaScript",
+            "TypeScript",
+            "Node.js",
+            "Redux"
+        ],
+        "salary": {
+            "min": 80000,
+            "max": 120000,
+            "currency": "USD"
+        },
+        "location": {
+            "city": "New York",
+            "country": "United States",
+            "remote": true
+        },
+        "department": "Engineering",
+        "experienceLevel": "senior",
+        "jobType": "full-time",
+        "createdAt": "2024-01-15T10:00:00.000Z",
+        "updatedAt": "2024-01-15T10:00:00.000Z",
+        "expiresAt": "2024-04-15T10:00:00.000Z",
+        "views": 150
+    },
+    {
+        "_id": "507f1f77bcf86cd799439002",
+        "title": "Frontend Developer",
+        "description": "Join our frontend team to build beautiful and responsive user interfaces. We're looking for someone with strong HTML, CSS, and JavaScript skills.",
+        "status": "filled",
+        "employerId": "507f1f77bcf86cd799439011",
+        "skillsRequired": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "React",
+            "Bootstrap"
+        ],
+        "salary": {
+            "min": 60000,
+            "max": 90000,
+            "currency": "USD"
+        },
+        "location": {
+            "city": "San Francisco",
+            "country": "United States",
+            "remote": false
+        },
+        "department": "Engineering",
+        "experienceLevel": "mid",
+        "jobType": "full-time",
+        "createdAt": "2024-01-10T10:00:00.000Z",
+        "updatedAt": "2024-02-15T10:00:00.000Z",
+        "expiresAt": "2024-04-10T10:00:00.000Z",
+        "views": 200
+    },
+    {
+        "_id": "507f1f77bcf86cd799439003",
+        "title": "Data Scientist",
+        "description": "Help us build machine learning models and analyze large datasets. We need someone with strong Python skills and experience with ML frameworks.",
+        "status": "open",
+        "employerId": "507f1f77bcf86cd799439011",
+        "skillsRequired": [
+            "Python",
+            "Machine Learning",
+            "SQL",
+            "Statistics",
+            "TensorFlow"
+        ],
+        "salary": {
+            "min": 90000,
+            "max": 140000,
+            "currency": "USD"
+        },
+        "location": {
+            "city": "Boston",
+            "country": "United States",
+            "remote": true
+        },
+        "department": "Data Science",
+        "experienceLevel": "senior",
+        "jobType": "full-time",
+        "createdAt": "2024-01-20T10:00:00.000Z",
+        "updatedAt": "2024-01-20T10:00:00.000Z",
+        "expiresAt": "2024-04-20T10:00:00.000Z",
+        "views": 80
+    },
+    {
+        "_id": "507f1f77bcf86cd799439004",
+        "title": "DevOps Engineer",
+        "description": "Join our infrastructure team to manage cloud deployments and CI/CD pipelines. Experience with AWS and Docker required.",
+        "status": "archived",
+        "employerId": "507f1f77bcf86cd799439011",
+        "skillsRequired": [
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "Linux"
+        ],
+        "salary": {
+            "min": 70000,
+            "max": 110000,
+            "currency": "USD"
+        },
+        "location": {
+            "city": "Austin",
+            "country": "United States",
+            "remote": true
+        },
+        "department": "Operations",
+        "experienceLevel": "mid",
+        "jobType": "full-time",
+        "createdAt": "2024-01-05T10:00:00.000Z",
+        "updatedAt": "2024-03-01T10:00:00.000Z",
+        "expiresAt": "2024-04-05T10:00:00.000Z",
+        "views": 120
+    },
+    {
+        "_id": "507f1f77bcf86cd799439005",
+        "title": "Product Manager",
+        "description": "Lead product development initiatives and work closely with engineering teams to deliver exceptional user experiences.",
+        "status": "draft",
+        "employerId": "507f1f77bcf86cd799439011",
+        "skillsRequired": [
+            "Product Management",
+            "Agile",
+            "User Research",
+            "Analytics",
+            "Communication"
+        ],
+        "salary": {
+            "min": 85000,
+            "max": 130000,
+            "currency": "USD"
+        },
+        "location": {
+            "city": "Seattle",
+            "country": "United States",
+            "remote": false
+        },
+        "department": "Product",
+        "experienceLevel": "senior",
+        "jobType": "full-time",
+        "createdAt": "2024-01-25T10:00:00.000Z",
+        "updatedAt": "2024-01-25T10:00:00.000Z",
+        "expiresAt": null,
+        "views": 0
+    }
+]

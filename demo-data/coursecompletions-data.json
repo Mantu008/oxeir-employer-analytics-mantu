@@ -1,0 +1,26 @@
+[
+    {
+        "courseId": "COURSE_001",
+        "jobId": "JOB_ID_2",
+        "candidateId": "APPLICANT_003",
+        "wasHired": true,
+        "completedAt": "2024-01-20T00:00:00.000Z",
+        "performanceRating": 4.5
+    },
+    {
+        "courseId": "COURSE_002",
+        "jobId": "JOB_ID_3",
+        "candidateId": "APPLICANT_004",
+        "wasHired": false,
+        "completedAt": "2024-01-18T00:00:00.000Z",
+        "performanceRating": 4.2
+    },
+    {
+        "courseId": "COURSE_003",
+        "jobId": "JOB_ID_4",
+        "candidateId": "APPLICANT_006",
+        "wasHired": false,
+        "completedAt": "2024-01-22T00:00:00.000Z",
+        "performanceRating": 4.8
+    }
+]

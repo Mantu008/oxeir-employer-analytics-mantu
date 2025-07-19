@@ -1,0 +1,80 @@
+[
+    {
+        "_id": "507f1f77bcf86cd799439011",
+        "name": "John Smith",
+        "email": "john.smith@techcorp.com",
+        "password": "$2a$10$hashedpassword123",
+        "company": "TechCorp Solutions",
+        "industry": "Technology",
+        "size": "medium",
+        "location": {
+            "city": "New York",
+            "country": "United States",
+            "coordinates": [
+                -74.006,
+                40.7128
+            ]
+        },
+        "website": "https://techcorp-solutions.com",
+        "phone": "+1-555-0123",
+        "isActive": true,
+        "subscription": {
+            "plan": "premium",
+            "expiresAt": "2024-12-31T23:59:59.000Z"
+        },
+        "createdAt": "2023-01-01T10:00:00.000Z",
+        "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439012",
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@innovateinc.com",
+        "password": "$2a$10$hashedpassword456",
+        "company": "Innovate Inc",
+        "industry": "Software Development",
+        "size": "large",
+        "location": {
+            "city": "San Francisco",
+            "country": "United States",
+            "coordinates": [
+                -122.4194,
+                37.7749
+            ]
+        },
+        "website": "https://innovate-inc.com",
+        "phone": "+1-555-0456",
+        "isActive": true,
+        "subscription": {
+            "plan": "enterprise",
+            "expiresAt": "2024-12-31T23:59:59.000Z"
+        },
+        "createdAt": "2023-02-15T10:00:00.000Z",
+        "updatedAt": "2024-01-20T10:00:00.000Z"
+    },
+    {
+        "_id": "507f1f77bcf86cd799439013",
+        "name": "Michael Chen",
+        "email": "michael.chen@dataviz.com",
+        "password": "$2a$10$hashedpassword789",
+        "company": "DataViz Analytics",
+        "industry": "Data Science",
+        "size": "small",
+        "location": {
+            "city": "Boston",
+            "country": "United States",
+            "coordinates": [
+                -71.0589,
+                42.3601
+            ]
+        },
+        "website": "https://dataviz-analytics.com",
+        "phone": "+1-555-0789",
+        "isActive": true,
+        "subscription": {
+            "plan": "basic",
+            "expiresAt": "2024-06-30T23:59:59.000Z"
+        },
+        "createdAt": "2023-03-10T10:00:00.000Z",
+        "updatedAt": "2024-01-10T10:00:00.000Z"
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "_id": "507f1f77bcf86cd799439021",
+        "jobId": "507f1f77bcf86cd799439001",
+        "applicantId": "507f1f77bcf86cd799439031",
+        "status": "applied",
+        "appliedAt": "2024-01-15T14:30:00.000Z",
+        "shortlistedAt": null,
+        "interviewedAt": null,
+        "hiredAt": null,
+        "rejectedAt": null,
+        "location": {
+            "city": "New York",
+            "country": "United States",
+            "coordinates": [
+                -74.006,
+                40.7128
+            ]
+        },
+        "source": "job-board",
+        "resumeUrl": "https://example.com/resumes/john-doe-resume.pdf",
+        "coverLetter": "I am excited to apply for the Senior React Developer position...",
+        "notes": "Strong React skills, good communication",
+        "rating": 4,
+        "skills": [
+            "React",
+            "JavaScript",
+            "TypeScript",
+            "Node.js"
+        ],
+        "experience": 5,
+        "education": {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "New York University",
+            "graduationYear": 2019
+        }
+    },
+    {
+        "_id": "507f1f77bcf86cd799439022",
+        "jobId": "507f1f77bcf86cd799439001",
+        "applicantId": "507f1f77bcf86cd799439032",
+        "status": "shortlisted",
+        "appliedAt": "2024-01-10T09:15:00.000Z",
+        "shortlistedAt": "2024-01-12T16:00:00.000Z",
+        "interviewedAt": null,
+        "hiredAt": null,
+        "rejectedAt": null,
+        "location": {
+            "city": "San Francisco",
+            "country": "United States",
+            "coordinates": [
+                -122.4194,
+                37.7749
+            ]
+        },
+        "source": "direct",
+        "resumeUrl": "https://example.com/resumes/sarah-smith-resume.pdf",
+        "coverLetter": "With 7 years of experience in React development...",
+        "notes": "Excellent portfolio, senior level experience",
+        "rating": 5,
+        "skills": [
+            "React",
+            "JavaScript",
+            "TypeScript",
+            "Redux",
+            "GraphQL"
+        ],
+        "experience": 7,
+        "education": {
+            "degree": "Master of Science in Software Engineering",
+            "institution": "Stanford University",
+            "graduationYear": 2017
+        }
+    },
+    {
+        "_id": "507f1f77bcf86cd799439023",
+        "jobId": "507f1f77bcf86cd799439002",
+        "applicantId": "507f1f77bcf86cd799439033",
+        "status": "interviewed",
+        "appliedAt": "2024-01-05T11:45:00.000Z",
+        "shortlistedAt": "2024-01-08T14:30:00.000Z",
+        "interviewedAt": "2024-01-15T10:00:00.000Z",
+        "hiredAt": null,
+        "rejectedAt": null,
+        "location": {
+            "city": "Boston",
+            "country": "United States",
+            "coordinates": [
+                -71.0589,
+                42.3601
+            ]
+        },
+        "source": "referral",
+        "resumeUrl": "https://example.com/resumes/mike-johnson-resume.pdf",
+        "coverLetter": "I am passionate about creating user-friendly interfaces...",
+        "notes": "Good technical skills, needs improvement in communication",
+        "rating": 3,
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "React",
+            "Bootstrap"
+        ],
+        "experience": 3,
+        "education": {
+            "degree": "Bachelor of Arts in Web Design",
+            "institution": "Boston University",
+            "graduationYear": 2021
+        }
+    },
+    {
+        "_id": "507f1f77bcf86cd799439024",
+        "jobId": "507f1f77bcf86cd799439002",
+        "applicantId": "507f1f77bcf86cd799439034",
+        "status": "hired",
+        "appliedAt": "2024-01-01T08:00:00.000Z",
+        "shortlistedAt": "2024-01-03T15:20:00.000Z",
+        "interviewedAt": "2024-01-10T13:00:00.000Z",
+        "hiredAt": "2024-01-20T16:00:00.000Z",
+        "rejectedAt": null,
+        "location": {
+            "city": "New York",
+            "country": "United States",
+            "coordinates": [
+                -74.006,
+                40.7128
+            ]
+        },
+        "source": "direct",
+        "resumeUrl": "https://example.com/resumes/emma-wilson-resume.pdf",
+        "coverLetter": "I am excited about the opportunity to join your team...",
+        "notes": "Perfect fit for the role, excellent cultural match",
+        "rating": 5,
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "React",
+            "Bootstrap",
+            "Git"
+        ],
+        "experience": 4,
+        "education": {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "Columbia University",
+            "graduationYear": 2020
+        }
+    },
+    {
+        "_id": "507f1f77bcf86cd799439025",
+        "jobId": "507f1f77bcf86cd799439003",
+        "applicantId": "507f1f77bcf86cd799439035",
+        "status": "applied",
+        "appliedAt": "2024-01-20T12:30:00.000Z",
+        "shortlistedAt": null,
+        "interviewedAt": null,
+        "hiredAt": null,
+        "rejectedAt": null,
+        "location": {
+            "city": "Seattle",
+            "country": "United States",
+            "coordinates": [
+                -122.3321,
+                47.6062
+            ]
+        },
+        "source": "job-board",
+        "resumeUrl": "https://example.com/resumes/david-chen-resume.pdf",
+        "coverLetter": "I have extensive experience in machine learning...",
+        "notes": "Strong ML background, good Python skills",
+        "rating": 4,
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "SQL",
+            "Statistics",
+            "TensorFlow"
+        ],
+        "experience": 6,
+        "education": {
+            "degree": "PhD in Computer Science",
+            "institution": "University of Washington",
+            "graduationYear": 2018
+        }
+    },
+    {
+        "_id": "507f1f77bcf86cd799439026",
+        "jobId": "507f1f77bcf86cd799439003",
+        "applicantId": "507f1f77bcf86cd799439036",
+        "status": "rejected",
+        "appliedAt": "2024-01-18T10:15:00.000Z",
+        "shortlistedAt": "2024-01-20T14:00:00.000Z",
+        "interviewedAt": "2024-01-25T11:00:00.000Z",
+        "hiredAt": null,
+        "rejectedAt": "2024-01-30T16:00:00.000Z",
+        "location": {
+            "city": "Austin",
+            "country": "United States",
+            "coordinates": [
+                -97.7431,
+                30.2672
+            ]
+        },
+        "source": "social-media",
+        "resumeUrl": "https://example.com/resumes/lisa-brown-resume.pdf",
+        "coverLetter": "I am interested in data science opportunities...",
+        "notes": "Good skills but not enough ML experience",
+        "rating": 3,
+        "skills": [
+            "Python",
+            "SQL",
+            "Statistics",
+            "Excel"
+        ],
+        "experience": 2,
+        "education": {
+            "degree": "Master of Science in Statistics",
+            "institution": "University of Texas",
+            "graduationYear": 2022
+        }
+    }
+]

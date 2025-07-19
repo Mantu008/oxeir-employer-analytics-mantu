@@ -1,0 +1,92 @@
+[
+    {
+        "candidateId": "APPLICANT_001",
+        "skill": "React",
+        "score": 85
+    },
+    {
+        "candidateId": "APPLICANT_001",
+        "skill": "TypeScript",
+        "score": 78
+    },
+    {
+        "candidateId": "APPLICANT_001",
+        "skill": "Redux",
+        "score": 82
+    },
+    {
+        "candidateId": "APPLICANT_002",
+        "skill": "React",
+        "score": 90
+    },
+    {
+        "candidateId": "APPLICANT_002",
+        "skill": "JavaScript",
+        "score": 88
+    },
+    {
+        "candidateId": "APPLICANT_002",
+        "skill": "Node.js",
+        "score": 75
+    },
+    {
+        "candidateId": "APPLICANT_003",
+        "skill": "JavaScript",
+        "score": 92
+    },
+    {
+        "candidateId": "APPLICANT_003",
+        "skill": "HTML",
+        "score": 95
+    },
+    {
+        "candidateId": "APPLICANT_003",
+        "skill": "CSS",
+        "score": 88
+    },
+    {
+        "candidateId": "APPLICANT_004",
+        "skill": "Python",
+        "score": 87
+    },
+    {
+        "candidateId": "APPLICANT_004",
+        "skill": "Machine Learning",
+        "score": 85
+    },
+    {
+        "candidateId": "APPLICANT_004",
+        "skill": "SQL",
+        "score": 80
+    },
+    {
+        "candidateId": "APPLICANT_005",
+        "skill": "Python",
+        "score": 82
+    },
+    {
+        "candidateId": "APPLICANT_005",
+        "skill": "Pandas",
+        "score": 79
+    },
+    {
+        "candidateId": "APPLICANT_005",
+        "skill": "Statistics",
+        "score": 85
+    },
+    {
+        "candidateId": "APPLICANT_006",
+        "skill": "AWS",
+        "score": 88
+    },
+    {
+        "candidateId": "APPLICANT_006",
+        "skill": "Docker",
+        "score": 85
+    },
+    {
+        "candidateId": "APPLICANT_006",
+        "skill": "Linux",
+        "score": 90
+    }
+]
